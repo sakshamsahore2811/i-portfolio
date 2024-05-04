@@ -1,0 +1,12 @@
+.roletransition {
+    transition: transform 0.5s ease-out;
+  }
+  
+.roletransition.slidedownenter {
+    transform: translateY(-100%);
+  }
+  
+.roletransition.slidedownenteractive {
+    transform: translateY(0%);
+  }
+  
