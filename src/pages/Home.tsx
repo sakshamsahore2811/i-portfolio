@@ -1,4 +1,3 @@
-import React from 'react'
 import Navbar from '../components/Navbar'
 import { Box, Container } from '@mui/material'
 import p1 from '../images/p1.png'
